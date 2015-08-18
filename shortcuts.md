@@ -1,6 +1,6 @@
 #Shortcuts
 
-A collection of shortcuts for XFCE, Jupyter, RStudio, Atom, Firefox and Gmail.
+A personal collection of shortcuts for XFCE, Jupyter, RStudio, Atom, Firefox and Gmail.
 
 Linux based (Mint 17.1 Rebecca)
 
@@ -57,6 +57,18 @@ Launch applications [Ctrl + Alt + ]:
 * Screenshot tool: `Prtsc`
 
 The window and workspace shortcuts can be changed at the *Window Manager*. The application shortcuts can be changed at the *Keyboard*.
+
+
+## Thunar
+
+* New tab: `Ctrl + T`
+* New window: `Ctrl + N`
+* Enable/disable menu bar: `Ctrl + M`
+* Create new folder: `Ctrl + Shit + N`
+* Show hidden files: `Ctrl + H`
+* View as icons: `Ctrl + 1`
+* View as detailed list: `Ctrl + 2`
+* View as list: `Ctrl + 3`
 
 
 ## Jupyter (IPython Notebook)
