@@ -55,7 +55,6 @@ Launch applications [Ctrl + Alt + ]:
 * File explorer: `Ctrl + Alt + F` (!)
 * Firefox: `Ctrl + Alt + F` (!)
 * Screenshot tool: `Prtsc`
-* xkill: `Ctrl + Shift + Esc`
 
 ## Jupyter (IPython Notebook)
 
@@ -103,7 +102,7 @@ Session:
 * Quit session: `Ctrl + Q`
 * Restart R session: `Ctrl + Shift + F10`
 
-(More RStudio shortcuts)[https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts]
+[More RStudio shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
 
 
 ## Atom
@@ -122,7 +121,7 @@ Editing:
 * Go to line: `Ctrl + G`
 * Select line: `Ctrl + L`
 
-(More Atom shortcuts)[https://github.com/nwinkler/atom-keyboard-shortcuts]
+[More Atom shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
 
 
 ## Firefox
@@ -158,7 +157,7 @@ In page:
 * Find: `CTRL + F` (or `/` for quick find)
 * Bookmark: `Ctrl + B`
 
-(More Firefox shortcuts)[https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly]
+[More Firefox shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
 
 
 ## Gmail
@@ -198,10 +197,3 @@ In message:
 * Forward message in a new window: `Shift + f`
 
 For more Gmail shortcuts, press `?` at the app window.
-
-
-## Todo
-
-* Windows equivalent shortcuts
-* Maximize vertically:
-* Mazimize horizontally:
