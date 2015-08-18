@@ -2,7 +2,7 @@
 
 A collection of shortcuts for XFCE, Jupyter, RStudio, Atom, Firefox and Gmail.
 
-Linux based.
+Linux based (Mint 17.1 Rebecca)
 
 Shorcuts tagged as (!) are customized to my own system and apps.
 
@@ -14,8 +14,8 @@ Windows [Alt +]:
 * Access the applications menu: `Alt + F1` ( ~ mouse left button)
 * Application finder: `Alt + F2` (or `Alt + F3` for finder & browser)
 * Close window: `Alt + F4`
-* Tile window to the left: `Alt + F5` (!)
-* Tile window to the right: `Alt + F6` (!)
+* Tile window to the left: `Alt + F5` (#)
+* Tile window to the right: `Alt + F6` (#)
 * Move window: `Alt + F7`
 * Resize window: `Alt + F8`
 * Hide Window: `Alt + F9` (~ minimize)
@@ -49,12 +49,15 @@ System wide [Ctrl +]:
 Launch applications [Ctrl + Alt + ]:
 
 * Terminal: `Ctrl + Alt + T`
-* Quick text editor: `Ctrl + Alt + E` (!)
-* Atom: `Ctrl + Alt + A` (!)
-* RStudio: `Ctrl + Alt + R` (!)
-* File explorer: `Ctrl + Alt + F` (!)
-* Firefox: `Ctrl + Alt + F` (!)
+* Quick text editor: `Ctrl + Alt + E` (*gedit*) (#)
+* Atom: `Ctrl + Alt + A` (!) (*atom*)
+* RStudio: `Ctrl + Alt + R` (*rstudio %F*) (#)
+* File explorer: `Ctrl + Alt + F` (*thunar*) (#)
+* Firefox: `Ctrl + Alt + B` (*firefox*) (#)
 * Screenshot tool: `Prtsc`
+
+The window and workspace shortcuts can be changed at the *Window Manager*. The application shortcuts can be changed at the *Keyboard*
+
 
 ## Jupyter (IPython Notebook)
 
@@ -74,7 +77,8 @@ Launch applications [Ctrl + Alt + ]:
 * Code cell: `Ctrl + M  y`
 * Select previous: `Ctrl + M  p`
 * Select next: `Ctrl + M  n`
-* Show keyboard shortcuts: `Ctrl + M  h`
+
+For more Jupyter shortcuts, press `Ctrl + M  h`.
 
 
 ## R Studio
