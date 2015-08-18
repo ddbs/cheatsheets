@@ -4,7 +4,7 @@ A collection of shortcuts for XFCE, Jupyter, RStudio, Atom, Firefox and Gmail.
 
 Linux based (Mint 17.1 Rebecca)
 
-Shorcuts tagged as (!) are customized to my own system and apps.
+Shorcuts tagged with (#) are customized to my own system and apps.
 
 
 ## Linux/XFCE
@@ -50,13 +50,13 @@ Launch applications [Ctrl + Alt + ]:
 
 * Terminal: `Ctrl + Alt + T`
 * Quick text editor: `Ctrl + Alt + E` (*gedit*) (#)
-* Atom: `Ctrl + Alt + A` (!) (*atom*)
+* Atom: `Ctrl + Alt + A` (*atom*) (#)
 * RStudio: `Ctrl + Alt + R` (*rstudio %F*) (#)
 * File explorer: `Ctrl + Alt + F` (*thunar*) (#)
 * Firefox: `Ctrl + Alt + B` (*firefox*) (#)
 * Screenshot tool: `Prtsc`
 
-The window and workspace shortcuts can be changed at the *Window Manager*. The application shortcuts can be changed at the *Keyboard*
+The window and workspace shortcuts can be changed at the *Window Manager*. The application shortcuts can be changed at the *Keyboard*.
 
 
 ## Jupyter (IPython Notebook)
@@ -106,7 +106,7 @@ Session:
 * Quit session: `Ctrl + Q`
 * Restart R session: `Ctrl + Shift + F10`
 
-[More RStudio shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
+[More R Studio shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
 
 
 ## Atom
